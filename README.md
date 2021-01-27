@@ -1,3 +1,4 @@
 # Learning_R
 
-## This is a level 2 heading 
+## Applied Data Analysis
+## Spring 2021 course (This is a level 2 heading) 
